@@ -1,6 +1,6 @@
 # seo-refactor
 
-[My Project](https://www.google.com)
+[My Project](https://dquiroz80.github.io/seo-refactor/)
 
 ## Table Of Contents
 
