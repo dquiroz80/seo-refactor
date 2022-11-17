@@ -29,7 +29,7 @@ This is my initial project for this Coding Bootcamp.  The main obective of this 
 
 ## Visual
 
-![alt text](assets\images\website.png)
+![alt text](https://github.com/dquiroz80/seo-refactor/blob/main/assets/images/website.png)
 
 
 
